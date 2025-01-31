@@ -1,11 +1,11 @@
 {
-    "name": "KnightBot-MD",
+    "name": "7RB-Bot-MD",
     "description": "Advanced WhatsApp Bot with Multiple Features",
     "keywords": [
         "bot",
         "whatsapp",
         "whatsapp-bot",
-        "knightbot",
+        "7rbbot",
         "multi-device"
     ],
     "repository": "https://github.com/mruniquehacker/Knightbot-MD",
@@ -16,7 +16,7 @@
             "required": false
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 911234567890)",
+            "description": "Your WhatsApp number (e.g., 201210307869)",
             "required": false
         },
         "PREFIX": {
